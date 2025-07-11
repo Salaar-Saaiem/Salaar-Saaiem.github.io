@@ -1,5 +1,5 @@
 # Saaiem Salaar - Full Stack & ML Developer
-
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Salaar-Saaiem.Salaar-Saaiem.github.io)
 ## Overview
 
 **Welcome to my professional portfolio:** a dynamic showcase of my skills, projects, and journey as a Data Scientist. This responsive, single-page application blends elegant design with technical sophistication to present my capabilities in web development and strengthen my personal brand.
