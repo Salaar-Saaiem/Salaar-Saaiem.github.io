@@ -1,4 +1,4 @@
-# Saaiem Salaar - Full Stack & ML Developer
+# Saaiem Salaar - Software & ML Developer
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Salaar-Saaiem.Salaar-Saaiem.github.io)
 ## Overview
 
